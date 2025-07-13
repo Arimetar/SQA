@@ -1,3 +1,4 @@
+package main;
 /* 8 July 2025
 Lab#3 - Writing your first JUnit test
 Roman numerals employ letters to represent numbers.
